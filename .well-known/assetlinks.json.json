@@ -1,0 +1,11 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.vengean.magicled",
+        "sha256_cert_fingerprints":
+          ["B8:5B:A2:DD:A5:2C:FB:FD:A4:7F:28:48:E1:56:7C:A3:F9:F5:67:73:69:A4:35:66:B0:98:69:15:33:77:EA:6F"]
+      }
+    }
+  ]
